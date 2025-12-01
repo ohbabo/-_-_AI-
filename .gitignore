@@ -6,7 +6,7 @@ venv/
 .env
 
 # Project specific
-data/
+/data/
 *.pt
 *.mp4
 *.zip
